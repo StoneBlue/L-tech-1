@@ -1,0 +1,3 @@
+D:\Users\jbb\github\LTech\Source\LtScience\obj\Release\LtScience.csprojResolveAssemblyReference.cache
+D:\Users\jbb\github\LTech\Source\OUTPUT\LtScience.dll
+D:\Users\jbb\github\LTech\Source\LtScience\obj\Release\LtScience.dll

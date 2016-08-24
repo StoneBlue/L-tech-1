@@ -1,0 +1,3 @@
+D:\Users\jbb\github\LTech\Source\LTToolBar\obj\Release\LTToolBar.csprojResolveAssemblyReference.cache
+D:\Users\jbb\github\LTech\Source\OUTPUT\LTToolBar.dll
+D:\Users\jbb\github\LTech\Source\LTToolBar\obj\Release\LTToolBar.dll
